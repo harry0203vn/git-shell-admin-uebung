@@ -1,2 +1,3 @@
 # git-shell-admin-uebung
-Übung: Shell-Skripte mit Git-Branches verwalten
+
+Übungsprojekt: Shell-Skripte werden mit Git-Branches verwaltet, committed, gepusht und in master gemerged.
